@@ -1,10 +1,11 @@
 ![logo](https://github.com/Zenith40/Zenith40/blob/main/Git%20Banner.png)
 <h1 align="center">Hi 👋, I'm Satkar Sarvankar</h1>
 <!--p><h3 align="center">Aspiring Data Scientist</h3></p-->
-
+<br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zenith40&label=Profile%20views&color=brightgreen&style=for-the-badge&abbreviated=true" alt="zenith40" /> </p>
+<br>
 
-🎯 I am an enthusiast of artificial intelligence, large language models (LLMs), machine learning, and deep learning.
+🎯 An **AI enthusiast** exploring the depths of artificial intelligence, large language models (LLMs), machine learning, and deep learning.
 
 💡 Currently, I am working on projects that involve fine-tuning LLMs, prompt engineering, and AI applications in NLP. 
 
@@ -12,9 +13,7 @@
 
 🛠️ I am proficient in Python, PyTorch, TensorFlow, and scikit-learn.  
 
-📚 I am a lifelong learner, always experimenting with cutting-edge research and open-source AI tools.  
-
-🚀 I am open to collaboration and eager to contribute to LLM-driven projects that create a real-world impact.  
+🚀 I am open to collaborating on LLM-driven projects that have a real-world impact.
 
 <br>
 
