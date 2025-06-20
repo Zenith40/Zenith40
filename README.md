@@ -28,8 +28,9 @@
 
 <h4>📫 Reach me at: satkarsarvankar400@gmail.com</h4>
 
-- 👨‍💻 All of my projects are available on my [**🚀Portfolio**](https://satkar-sarvankar.netlify.app/)
-- 📄 Know about my experiences [<a href="https://github.com/Zenith40/Zenith40/blob/main/Satkar%20Sarvankar.pdf" download="" class="btn btn2">**Download CV**</a>]
+👨‍💻 All of my projects are available on my [**🚀Portfolio**](https://satkar-sarvankar.netlify.app/)
+
+📄 Know about my experiences [<a href="https://github.com/Zenith40/Zenith40/blob/main/Satkar%20Sarvankar.pdf" download="" class="btn btn2">**Download CV**</a>]
 
 <br>
 
