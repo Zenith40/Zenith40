@@ -4,9 +4,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zenith40&label=Profile%20views&color=brightgreen&style=for-the-badge&abbreviated=true" alt="zenith40" /> </p>
 
-🎯 I am passionate about Artificial Intelligence, large language models (LLMs), Machine Learning, and Deep Learning.
-
-🔬 I am exploring how LLMs can transform our interactions with technology.  
+🎯 I am an enthusiast of artificial intelligence, large language models (LLMs), machine learning, and deep learning.
 
 💡 Currently, I am working on projects that involve fine-tuning LLMs, prompt engineering, and AI applications in NLP. 
 
