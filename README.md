@@ -1,14 +1,14 @@
-![logo](https://github.com/Zenith40/Zenith40/blob/main/Git%20banner.png)
+![logo](https://github.com/Zenith40/Zenith40/blob/main/Git%20Banner.png)
 <h1 align="center">Hi 👋, I'm Satkar Sarvankar</h1>
-<h3 align="center">Aspiring Data Scientist</h3>
+<!--p><h3 align="center">Aspiring Data Scientist</h3></p-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zenith40&label=Profile%20views&color=0e75b6&style=flat" alt="zenith40" /> </p>
 <img align="right" alt="coding" width="400" src="https://github.com/Zenith40/Zenith40/blob/main/Animation.gif">
 
 
-- 👨‍💻 All of my projects are available at [https://satkar-sarvankar.netlify.app/](https://satkar-sarvankar.netlify.app/)
+- 👨‍💻 All of my projects are available on my [**🚀Portfolio**](https://satkar-sarvankar.netlify.app/)
 - 📫 How to reach me **satkarsarvankar400@gmail.com**
-- 📄 Know about my experiences [<a href="https://github.com/Zenith40/Zenith40/blob/main/Satkar%20Sarvankar.pdf" download="" class="btn btn2">Download CV</a>]
+- 📄 Know about my experiences [<a href="https://github.com/Zenith40/Zenith40/blob/main/Satkar%20Sarvankar.pdf" download="" class="btn btn2">**Download CV**</a>]
 
 <br>
 
@@ -16,7 +16,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/satkar-sarvankar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zenith40" height="30" width="40" /></a>
 <a href="https://kaggle.com/zenith04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="zenith04" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@zenith04u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@zenith04u" height="30" width="40" /></a>
 </p>
 
 <br>
